@@ -1,0 +1,6 @@
+environment/*
+ENV_DIR/*
+*.wav
+*.mp3
+
+
